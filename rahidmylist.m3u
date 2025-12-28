@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Alvin Channel
-https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1,ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
 #EXTINF:-1,ARB 24
@@ -75,3 +73,4 @@ http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 #EXTINF:-1,360° Новости HD
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+
