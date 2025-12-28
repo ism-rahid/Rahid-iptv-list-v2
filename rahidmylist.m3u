@@ -25,3 +25,5 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1,VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+#EXTINF:-1,AZTV
+https://cdn502.canlitv.vin/aztv.m3u8?tkn=0t_ZvraiWI6irEGLL6p26g&tms=1766957347&hst=www.canlitv.vin&ip=185.146.112.57&utkn=18c803166576d95009f47800b988e953&ch=az-tv-canli
