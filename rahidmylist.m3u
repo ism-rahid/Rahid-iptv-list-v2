@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1,ARB
+#EXTINF:-1 group-title="Аzərbaycan AZ",ARB
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
-#EXTINF:-1,ARB 24
+#EXTINF:-1 group-title="Аzərbaycan AZ",ARB 24
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
-#EXTINF:-1,ARB Gunes
+#EXTINF:-1 group-title="Аzərbaycan AZ",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
-#EXTINF:-1,ATV TV
+#EXTINF:-1 group-title="Аzərbaycan AZ",ATV TV
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
-#EXTINF:-,Azstar TV
+#EXTINF:-1 group-title="Аzərbaycan AZ",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1,CBC Sport
+#EXTINF:-1 group-title="Аzərbaycan AZ",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
-#EXTINF:-1,Dunya TV
+#EXTINF:-1 group-title="Аzərbaycan AZ",Dunya TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
-#EXTINF:-1,Ictimai TV1
+#EXTINF:-1 group-title="Аzərbaycan AZ",Ictimai TV1
 https://live.itv.az/itv.m3u8
 #EXTINF:-1,Kanal S TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/kanal-s.m3u8
@@ -23,23 +23,23 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1,VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
-#EXTINF:-1,Мульт HD
+#EXTINF:-1 group-title="Mehri-David",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Карусель
+#EXTINF:-1 group-title="Mehri-David",Карусель
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1,МУЛЬТиМУЗЫКА
+#EXTINF:-1 group-title="Mehri-David",МУЛЬТиМУЗЫКА
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Мультимания
+#EXTINF:-1 group-title="Mehri-David",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Ani
+#EXTINF:-1 group-title="Mehri-David",Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Мама
+#EXTINF:-1 group-title="Mehri-David",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Пингвин
+#EXTINF:-1 group-title="Mehri-David",Пингвин
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Солнце
+#EXTINF:-1 group-title="Mehri-David",Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1,МУЛЬТСКАЗКИ IPTVPLAY HD
+#EXTINF:-1 group-title="Mehri-David",МУЛЬТСКАЗКИ IPTVPLAY HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1,Кино-Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
@@ -3396,4 +3396,5 @@ http://176.118.197.125/Mama/index.m3u8
 http://176.118.197.125/Match/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", KHL
 http://176.118.197.101/KHL/index.m3u8
+
 
