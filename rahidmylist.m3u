@@ -23,26 +23,182 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8
 #EXTINF:-1,VIP TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8
+
 #EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",ARB Gunes
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",Мульт HD
 http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Mehri-David",Карусель
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",Карусель
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 group-title="Mehri-David",МУЛЬТиМУЗЫКА
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",МУЛЬТиМУЗЫКА
 http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Mehri-David",Мультимания
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",Мультимания
 http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Mehri-David",Ani
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Mehri-David",Мама
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",Мама
 http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Mehri-David",Пингвин
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",Пингвин
 http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Mehri-David",Солнце
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",Солнце
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
-#EXTINF:-1 group-title="Mehri-David",МУЛЬТСКАЗКИ IPTVPLAY HD
+#EXTINF:-1 group-title="Mehri-David👧🏽👦🏼",МУЛЬТСКАЗКИ IPTVPLAY HD
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+
+
+
+#EXTINF:-1 group-title="CHILDREN'S",Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+
+#EXTINF:-1 group-title="CHILDREN'S",Duck TV HD
+http://193.27.209.122/ducktv/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",TiJi 
+http://193.27.209.122/tiji/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Мультиландия
+http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",alpha Moretime
+https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Carousel International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Карусель
+https://streaming.goodstream.cyou/live/232.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Супергерои
+http://86.57.209.210/Malish/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Мульт
+http://86.57.209.210/Mult/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Нікчемний Я 4 2024 професійний дубльований
+https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",FILM TV GROUP МультКазки
+http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="CHILDREN'S",FILM TV Леді Баг & Щенячий патруль.
+http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="CHILDREN'S",Axterix
+http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="CHILDREN'S",Том і Джеррі-Історія Лускунчика|2007|47 хв|США|мультфільм
+https://zetvideo.net/content/stream/films/tom_and_jerry._a_nutcracker_tale_2007_webdl_1080p_2xukr_eng_hurtom_26704/hls/1080/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Король Лев 3|2004|Хакуна Матата|Австралія|США
+https://zetvideo.net/content/stream/films/the.lion.king.3.2004.bdremux.1080p.ukr.eng_17258/hls/1080/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Супергерои
+http://158.101.222.193:88/georgia_play.php?id=malysh
+#EXTINF:-1 group-title="CHILDREN'S",Da vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 group-title="CHILDREN'S",Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="CHILDREN'S",Детский мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1 group-title="CHILDREN'S",2x2
+http://5.188.221.43:8080/play/2x2
+#EXTINF:-1 group-title="CHILDREN'S",Солнце
+http://5.188.221.43:8080/play/disney
+#EXTINF:-1 group-title="CHILDREN'S",Карусель
+http://5.188.221.43:8080/play/karusel
+#EXTINF:-1 group-title="CHILDREN'S",КАРУСЕЛЬ
+http://185.46.16.239:8000/Karusel
+#EXTINF:-1 group-title="CHILDREN'S",Уникум
+http://185.46.16.239:8000/Detskiy
+#EXTINF:-1 group-title="CHILDREN'S",Мульт
+http://185.46.16.239:8000/Mult
+#EXTINF:-1 group-title="CHILDREN'S",Мульт HD
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="CHILDREN'S",В гостях у сказки HD
+http://185.46.16.239:8000/V_gostyakh_u_skazki
+#EXTINF:-1 group-title="CHILDREN'S",Супергерои
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="CHILDREN'S",Солнце
+http://185.46.16.239:8000/Disney_Channel
+#EXTINF:-1 group-title="CHILDREN'S",Ani
+http://185.46.16.239:8000/Ani
+#EXTINF:-1 group-title="CHILDREN'S",Детский Мир
+http://146.120.14.239:3001/play/a0fc
+#EXTINF:-1 group-title="CHILDREN'S",СТС Kids
+http://146.120.14.239:3001/play/a0ob
+#EXTINF:-1 group-title="CHILDREN'S",Уникум
+http://146.120.14.239:3001/play/a084
+#EXTINF:-1 group-title="CHILDREN'S",О!
+http://146.120.14.239:3001/play/a07l
+#EXTINF:-1 group-title="CHILDREN'S",В Гостях У Сказки
+http://146.120.14.239:3001/play/a078
+#EXTINF:-1 group-title="CHILDREN'S",Duck TV
+http://146.120.14.239:3001/play/a075
+#EXTINF:-1 group-title="CHILDREN'S",Cartoon Classic
+http://146.120.14.239:3001/play/a08h
+#EXTINF:-1 group-title="CHILDREN'S",Карусель
+http://146.120.14.239:3001/play/a070
+#EXTINF:-1 group-title="CHILDREN'S",Мульт
+http://146.120.14.239:3001/play/a071
+#EXTINF:-1 group-title="CHILDREN'S",СуперГерои
+http://146.120.14.239:3001/play/a0gj
+#EXTINF:-1 group-title="CHILDREN'S",Мультиландия
+http://146.120.14.239:3001/play/a08z
+#EXTINF:-1 group-title="CHILDREN'S",Бобёр
+http://146.120.14.239:3001/play/a0du
+#EXTINF:-1 group-title="CHILDREN'S",Супергерои
+http://185.78.112.57:8077/malish/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",JimJam
+http://185.78.112.57:8077/JimJam/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Nickelodeon
+http://185.78.112.57:8077/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",TiJi
+http://185.78.112.57:8077/TiJi/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",О!
+http://185.78.112.57:8077/o_/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Карусель
+http://185.78.112.57:8077/karusel/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Детский мир
+http://185.78.112.57:8077/Detskiy_Mir/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Boomerang
+http://185.78.112.57:8077/Boomerang/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Cartoon network
+http://185.78.112.57:8077/cartoon-net/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Da Vinci
+http://185.78.112.57:8077/DaVinci_Learning/index.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 group-title="CHILDREN'S",Солнце
+http://91.207.115.228:5000/c167
+#EXTINF:-1 group-title="CHILDREN'S",Рыжий
+http://91.207.115.228:5000/c62
+#EXTINF:-1 group-title="CHILDREN'S",Мульт
+http://91.207.115.228:5000/c63
+#EXTINF:-1 group-title="CHILDREN'S",Ani
+http://91.207.115.228:5000/c64
+#EXTINF:-1 group-title="CHILDREN'S",Уникум
+http://91.207.115.228:5000/c65
+#EXTINF:-1 group-title="CHILDREN'S",Мультимузыка
+http://91.207.115.228:5000/c66
+#EXTINF:-1 group-title="CHILDREN'S",Мультиландия
+http://91.207.115.228:5000/c67
+#EXTINF:-1 group-title="CHILDREN'S",О!
+http://91.207.115.228:5000/c68
+#EXTINF:-1 group-title="CHILDREN'S",СТС Kids HD
+http://91.207.115.228:5000/c69
+#EXTINF:-1 group-title="CHILDREN'S",Мама
+http://91.207.115.228:5000/c70
+#EXTINF:-1 group-title="CHILDREN'S",2X2
+http://91.207.115.228:5000/c180
+#EXTINF:-1 group-title="CHILDREN'S",Супер Герои
+http://91.207.115.228:5000/c71
+#EXTINF:-1 group-title="CHILDREN'S",Da Vinci
+http://91.207.115.228:5000/c72
+#EXTINF:-1 group-title="CHILDREN'S",Ю
+http://91.207.115.228:5000/c50
+#EXTINF:-1 group-title="CHILDREN'S",Суббота!
+http://91.207.115.228:5000/c52
+
 #EXTINF:-1,Кино-Amedia 1
 http://158.101.222.193:88/georgia_play.php?id=amedia
 #EXTINF:-1,Кино-Amedia 2
@@ -2980,6 +3136,7 @@ http://176.118.197.125/Mama/index.m3u8
 http://176.118.197.125/Match/index.m3u8
 #EXTINF:-1 group-title="Internet42 LLC", KHL
 http://176.118.197.101/KHL/index.m3u8
+
 
 
 
