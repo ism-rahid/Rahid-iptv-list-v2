@@ -351,8 +351,6 @@ https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_slen
 https://www.30a-tv.com/InvPit.m3u8
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/0j5Aget.png",30A The Beach Show
 https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 group-title="USA 🇺🇸",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/hSYez3V.png",Atlanta Channel (720p)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://www.tripsmarter.com/sites/default/files/styles/314x177/public/live_beachtv30a_0_0.jpg",Beach TV (30A) (720p)
@@ -365,14 +363,10 @@ http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/fEjPBk3.png",Key TV (720p)
 http://media4.tripsmarter.com:1935/LiveTV/KTVHD/playlist.m3u8
-#EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/qOO32m6.png",Nbc 15 Madison Wi (Wmtvnbc) (720P)
-https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/tf3KGP4.jpg",New Orleans TV (720p)
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/QSH4Z4p.png",Nothing Scripted
 https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 group-title="USA 🇺🇸",Orange TV (720p)
-http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/ocMGZM6.png",PBS KET (720p)
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/chunklist.m3u8
 #EXTINF:-1 group-title="USA 🇺🇸" tvg-logo="https://i.imgur.com/48iMZ7c.png",The 360 Channel
@@ -384,8 +378,6 @@ https://worcester.vod.castus.tv/live/ch1.m3u8
 
 #EXTINF:-1 group-title="Турция 🇹🇷",Akit TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",Briç ve Satranç TV
-http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",Finest TV
 http://media.finest.tv/hls/live.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",FTV Türk
@@ -394,8 +386,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
 #EXTINF:-1 group-title="Турция 🇹🇷",Euro HD
 http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1 group-title="Турция 🇹🇷",ARAS TV
-http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
