@@ -434,52 +434,20 @@ http://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Rybalka HD
-https://176.116.105.82/Rybalka_HD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Dacha HD
-https://176.116.105.82/Dacha_HD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
-http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Загородная жизнь
-http://146.120.14.239:3001/play/a0bp
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
 http://146.120.14.239:3001/play/a06v
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
-http://146.120.14.239:3001/play/a06w
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста
-http://146.120.14.239:3001/play/a0bs
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Investigation Discovery
 http://146.120.14.239:3001/play/a06x
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery Channel
 http://146.120.14.239:3001/play/a06y
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet
-http://146.120.14.239:3001/play/a06z
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Тайны Галактики
-http://146.120.14.239:3001/play/a08j
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Стихия
-http://146.120.14.239:3001/play/a089
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикая Охота HD
-http://146.120.14.239:3001/play/a0ji
+http://146.120.14.239:3001/play/a0j
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикая Рыбалка HD
 http://146.120.14.239:3001/play/a0jk
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
-http://146.120.14.239:3001/play/a06s
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",24 техно
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
-http://158.101.222.193:88/georgia_play.php?id=zoo
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
 http://158.101.222.193:88/georgia_play.php?id=auto24
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
@@ -492,8 +460,7 @@ http://185.164.82.18:9009/aDxLhVQm_Drive
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
 http://185.46.16.239:8000/Doktor
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая планета
-http://185.46.16.239:8000/Zhivaya_Planeta
+
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
 http://185.46.16.239:8000/Nauka_2.0
 #EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
